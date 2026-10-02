@@ -19,6 +19,7 @@
   <li>Buscando consolidar conceitos de arquitetura de software e expandir o domínio em backend.</li>
 </ul>
 
+
 <hr />
 Linguagens e Tecnologias</h3>
 
